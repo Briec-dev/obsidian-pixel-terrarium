@@ -1,15 +1,30 @@
 # Pixel Terrarium
 
-![Obsidian Plugin](https://img.shields.io/badge/Obsidian-Plugin-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
-![Version](https://img.shields.io/badge/Version-1.0.0-7C3AED?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Desktop_%26_Mobile-success?style=for-the-badge)
-![Weather API](https://img.shields.io/badge/Open--Meteo-No_API_Key-orange?style=for-the-badge)
-
 > 🇬🇧 **[English Documentation](#-english-documentation)** | 🇫🇷 **[Documentation en Français](#-documentation-en-français)**
 
----
+### 📸 Visual Preview / Aperçu visuel
 
+**Snow & snowy canopy / Neige et arbre enneigé**
+
+<img width="1240" height="632" alt="05-meteo-neige" src="https://github.com/user-attachments/assets/6970f8cc-e83f-4692-b119-f23d9100ba01" />
+
+**Drizzle & raindrops / Bruine et gouttes**
+
+<img width="1240" height="632" alt="04-meteo-bruine" src="https://github.com/user-attachments/assets/f9ce43a4-ecdd-44c7-b75f-94c50a71c60d" />
+
+**Growth stages / Stades de croissance**
+
+<img width="400" height="848" alt="02-croissance-arbre" src="https://github.com/user-attachments/assets/91baf0f5-8006-46f0-ab35-726c3b8e2c2b" />
+
+**Species & seasons / Essences et saisons**
+
+<img width="1000" height="470" alt="06-arbre-saisons" src="https://github.com/user-attachments/assets/4e989dbb-2b6c-46a8-95d9-33dbdc0014d7" />
+
+**Interactive tree menu & decorations / Menu interactif de l'arbre et pose de décorations**
+
+<img width="700" height="740" alt="01-menu-arbre-nichoir" src="https://github.com/user-attachments/assets/015b8cf1-ce84-4939-b750-1293447df719" />
+
+---
 ## 🇬🇧 English Documentation
 
 **Pixel Terrarium** turns your Obsidian workspace into a living pixel-art micro-ecosystem: live weather over your writing panes paired with an animated companion tree, wildlife visitors, and branch-anchored decorations that react directly to the weather. Weather and companion tree can be enabled or disabled independently in Settings.

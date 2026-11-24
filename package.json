@@ -1,0 +1,36 @@
+{
+  "name": "pixel-terrarium",
+  "version": "1.0.0",
+  "description": "Pixel Terrarium — Pixel-art live weather effects and a living companion tree for Obsidian.",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.mjs",
+    "build": "node esbuild.config.mjs production",
+    "typecheck": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Briec-dev/obsidian-pixel-terrarium.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Briec-dev/obsidian-pixel-terrarium/issues"
+  },
+  "homepage": "https://github.com/Briec-dev/obsidian-pixel-terrarium#readme",
+  "keywords": [
+    "obsidian",
+    "obsidian-plugin",
+    "weather",
+    "pixel-art",
+    "terrarium",
+    "companion-tree",
+    "ambiance"
+  ],
+  "author": "Briec Lamour",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "esbuild": "^0.25.0",
+    "obsidian": "latest",
+    "typescript": "^5.7.0"
+  }
+}

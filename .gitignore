@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+
+# Build outputs (built & attached to GitHub Releases by release.yml)
+main.js
+*.js.map
+
+# Local Obsidian plugin user data
+data.json
+
+# Local test suite & dev-only media captures (kept locally, not pushed to GitHub)
+tests/
+pixel-terrarium-medias/
+tests/.compiled-*.mjs
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.lnk
+*.log
+*.zip
+.vscode/
+.idea/

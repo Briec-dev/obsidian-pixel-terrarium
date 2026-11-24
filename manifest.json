@@ -1,0 +1,10 @@
+{
+  "id": "pixel-terrarium",
+  "name": "Pixel Terrarium",
+  "version": "1.0.0",
+  "minAppVersion": "1.8.7",
+  "description": "Pixel-art live weather and a living companion tree that reacts to rain, snow, wind, seasons, and lightning.",
+  "author": "Briec Lamour",
+  "authorUrl": "https://github.com/Briec-dev",
+  "isDesktopOnly": false
+}
